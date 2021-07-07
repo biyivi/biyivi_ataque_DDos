@@ -5,6 +5,7 @@ clear
 pip install colorama 
 clear
 pip install tqdm 
+clear
 echo "La instalacion se ha completado.."
 var1="1"
 var2="2"
