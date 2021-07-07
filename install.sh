@@ -12,7 +12,7 @@ echo "Iniciar script"
 echo "1) Si"
 echo "2) Salir"
 read -p ">> " resp
-if "$resp" == "$var1"
+if [ "$resp" == "$var1" ]
 then
 python biyivi_Ataque_DDoS.py
 else
