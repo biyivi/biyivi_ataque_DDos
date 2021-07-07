@@ -14,7 +14,7 @@ echo "2) Salir"
 read -p ">> " resp
 if [ "$resp" == "$var1" ]
 then
-python biyivi_Ataque_DDoS.py
+python biyivi_ddos.py
 else
 echo "Para iniciar el scripit debe escribir: python biyivi_Ataque_DDoS.py"
 echo ":D"
