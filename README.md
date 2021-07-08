@@ -10,7 +10,11 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 # Instalación
 ## Termux:
 $pkg install git -y 
+
 $git clone https://github.com/biyivi/biyivi_ataque_DDos
+
 $cd biyivi_ataque_DDos
+
 $bash install.sh
+
 $python python biyivi_ddos.py
