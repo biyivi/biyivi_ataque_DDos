@@ -18,3 +18,7 @@ $cd biyivi_ataque_DDos
 $bash install.sh
 
 $python python biyivi_ddos.py
+## Linux:
+$git clone https://github.com/biyivi/biyivi_ataque_DDos
+$cd biyivi_ataque_DDos
+$python biyivi_ddos.py 
