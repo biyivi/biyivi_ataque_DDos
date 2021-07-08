@@ -33,7 +33,7 @@ $python biyivi_ddos.py
 https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
 ## Instagram:
 https://www.instagram.com/b.i.y.i.v.i/
-# Tiktok:
+## Tiktok:
 https://www.tiktok.com/@biyivi
-## Segunda cuenta:
-https://www.tiktok.com/@biyivi_?
+### Segunda cuenta:
+https://www.tiktok.com/@biyivi_
