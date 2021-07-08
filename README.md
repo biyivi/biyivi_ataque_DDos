@@ -26,5 +26,12 @@ $cd biyivi_ataque_DDos
 $python biyivi_ddos.py 
 
 # Video en youtube:
-(click en la imagen)
+
 [![Alt text](https://img.youtube.com/vi/aW6myrIEUQU/0.jpg)](https://www.youtube.com/watch?v=aW6myrIEUQU)
+# Redes sociales:
+## Youtube:
+https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
+## Instagram:
+https://www.instagram.com/b.i.y.i.v.i/
+# Tiktok:
+https://www.tiktok.com/@biyivi?
