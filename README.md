@@ -35,5 +35,5 @@ https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
 https://www.instagram.com/b.i.y.i.v.i/
 ## Tiktok:
 https://www.tiktok.com/@biyivi
-### Segunda cuenta:
+### Segunda cuenta en tiktok:
 https://www.tiktok.com/@biyivi_
