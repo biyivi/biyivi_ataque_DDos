@@ -9,21 +9,21 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 
 # Instalación
 ## Termux:
-$pkg install git -y 
+$ pkg install git -y 
 
-$git clone https://github.com/biyivi/biyivi_ataque_DDos
+$ git clone https://github.com/biyivi/biyivi_ataque_DDos
 
-$cd biyivi_ataque_DDos
+$ cd biyivi_ataque_DDos
 
-$bash install.sh
+$ bash install.sh
 
-$python python biyivi_ddos.py
+$ python biyivi_ddos.py
 ## Linux:
-$git clone https://github.com/biyivi/biyivi_ataque_DDos
+$ git clone https://github.com/biyivi/biyivi_ataque_DDos
 
-$cd biyivi_ataque_DDos
+$ cd biyivi_ataque_DDos
 
-$python biyivi_ddos.py 
+$ python biyivi_ddos.py 
 
 # Video en youtube:
 
