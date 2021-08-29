@@ -65,12 +65,9 @@ def ddos():
                             ██. ██ ██. ██ ▐█▌.▐▌▐█▄▪▐█
                             ▀▀▀▀▀• ▀▀▀▀▀•  ▀█▄▀▪ ▀▀▀▀ 
 
-
-
         '''+Style.RESET_ALL+Fore.MAGENTA+Style.BRIGHT+'''
 by: b i y i v i   
-        
-        
+             
         '''+Style.RESET_ALL)
 
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
